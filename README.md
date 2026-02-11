@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Febrian Ahmad Isnugraha</h1>
+<h1 align="center">Hi, I'm Febrian Ahmad Isnugraha! 👋</h1>
 <h3 align="center">Data Engineer focused on building reliable data pipelines, working with cloud data platforms, and turning raw data into meaningful insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febrianahmad&label=Profile%20views&color=0e75b6&style=flat" alt="febrianahmad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febrianahmad" alt="febrianahmad" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=febrianahmad" alt="febrianahmad" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/febrianahmad/](https://github.com/febrianahmad/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **febrianahmadisnugraha@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
