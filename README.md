@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Febrian Ahmad Isnugraha! 👋</h1>
-<h3 align="center">Data Engineer focused on building reliable data pipelines, working with cloud data platforms, and turning raw data into meaningful insights.</h3>
+<h3 align="center">Data Engineer focused on building reliable data pipelines and maintaining high data quality across systems. Interested in designing scalable data solutions using cloud data platforms and modern data stack technologies to drive meaningful business impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febrianahmad&label=Profile%20views&color=0e75b6&style=flat" alt="febrianahmad" /> </p>
 
